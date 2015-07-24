@@ -2,8 +2,8 @@
 'context-menu':
   'atom-text-editor': [
     {
-      'label': 'Create Pane atom-dwm'
-      'command': 'atom-dwm:create-pane'
+      'label': 'DWM'
+      'command': 'atom-dwm:activate'
     }
   ]
 'menu': [
@@ -13,8 +13,8 @@
       'label': 'atom-dwm'
       'submenu': [
         {
-          'label': 'Create Pane'
-          'command': 'atom-dwm:create-pane'
+          'label': 'DWM'
+          'command': 'atom-dwm:activate'
         }
       ]
     ]

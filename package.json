@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "atom-dwm:create-pane"
+    "atom-workspace": "atom-dwm:activate"
   },
   "repository": "https://github.com/atom/atom-dwm",
   "license": "MIT",
